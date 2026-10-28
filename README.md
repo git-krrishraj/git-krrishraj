@@ -2,7 +2,7 @@
 
 Electrical Engineering student, self-studying CS fundamentals to move into software engineering.
 
-- 🔭 Currently building frontend projects with **MERN Stack**
+- 🔭 Currently building projects with **MERN Stack**
 - 🌱 Practicing **competitive programming** in C++ — trees, math, number theory
 - ⚡ Background in EE, transitioning into SWE roles
 - 📫 Reach me: [email](mailto:krrishraj576@gmail.com) · [LinkedIn](https://www.linkedin.com/in/krrish-raj-78a665364)
