@@ -65,6 +65,8 @@
 | :--- | :--- | :--- |
 | **NewsNest** | `MongoDB` `Express` `React` `Node.js` | Short-news web platform (*"ख़बरें 50 या उससे कम शब्दों में"*) featuring real-time feed updates and documented system architecture. |
 | **FerroFlow** | `React` `Tailwind CSS` `Vercel` | Responsive frontend web application built with fast client-side state and persistent local storage. |
+| **Resume-AI** | `JavaScript` | AI powered application which allows users to compare their CVs with their desired job profiles and find out the areas they are lacking in along with suggested help.[cite: 7] |
+| **Banking-System-Backend-Environment** | `JavaScript` `JWT` | Backend code mimicking a real banking system offering features such as a working bank ledger system, user account creation and money transfer system and updation, jwt authorization, real time emails.[cite: 8] |
 
 ---
 
@@ -74,5 +76,3 @@
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=git-krrishraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Krrish's GitHub Stats" />
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=git-krrishraj&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-<div align="
