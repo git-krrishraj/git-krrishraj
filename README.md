@@ -33,6 +33,11 @@
 - 🎓 **Background:** Studying Electrical Engineering while self-studying CS fundamentals and contributing to open source to transition into SWE roles
 - 📫 **Reach me:** [krrishraj576@gmail.com](mailto:krrishraj576@gmail.com) · [LinkedIn](https://www.linkedin.com/in/krrish-raj-78a665364)
 
+ <p align="center">
+    <a href="https://krrish-raj.vercel.app/">
+      My Portfolio
+    </a>
+ </p>
 ---
 
 ### 🛠️ Tech Stack
