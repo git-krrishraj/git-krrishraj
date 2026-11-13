@@ -31,13 +31,8 @@
 - 🔭 **Currently building:** Full-stack web applications with the **MERN Stack** (JWT/cookie auth, real-time feeds, and clean REST APIs)
 - 🌱 **Competitive Programming:** Solving algorithmic problems in **C++** — focusing on trees, graphs, dynamic programming, math, and number theory
 - 🎓 **Background:** Studying Electrical Engineering while self-studying CS fundamentals and contributing to open source to transition into SWE roles
-- 📫 **Reach me:** [krrishraj576@gmail.com](mailto:krrishraj576@gmail.com) · [LinkedIn](https://www.linkedin.com/in/krrish-raj-78a665364)
+- 📫 **Reach me:** [krrishraj576@gmail.com](mailto:krrishraj576@gmail.com) · [LinkedIn](https://www.linkedin.com/in/krrish-raj-78a665364) · [Portfolio](https://krrish-raj.vercel.app/)
 
- <p align="center">
-    <a href="https://krrish-raj.vercel.app/">
-      My Portfolio
-    </a>
- </p>
 ---
 
 ### 🛠️ Tech Stack
